@@ -104,6 +104,8 @@ Finally,
 
 # Testing the architectures
 
+Move to **Testing_Archs** directory
+
 ## Installation:
 1. Ensure that Python version 3 and pip are installed on the system.
 2. Install the required libraries with the following command:
@@ -121,3 +123,11 @@ Finally,
 2. Configure the number of concurrent users and total requests in the **retrieve_product.py** file.
 3. Run the **retrieve_product.py** file to visualize the results.
 
+-------
+# Requirements
+
+1. Python3 (with pip)
+2. Node.js (with npm)
+3. MongoDB cluster
+4. Docker
+5. AWS account
